@@ -1,1 +1,1 @@
-# Demo-Project-Web-Dev-Coursera
+# Frontend Web Development course JHU/Coursera
