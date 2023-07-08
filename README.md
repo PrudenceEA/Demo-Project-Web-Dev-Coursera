@@ -1,1 +1,1 @@
-# Frontend Web Develpment course JHU/Coursera
+# Frontend Web Development course JHU/Coursera
